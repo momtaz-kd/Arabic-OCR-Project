@@ -6,7 +6,7 @@ and then stores the images inside arabic folder splitting them into two sections
 
 training section folder contains the notebook needed for the training
 
-testing.py file to test the model after training where it depends on config.yml file and model_final.pth
+testing.py file to test the model after the training where it depends on config.yml file and model_final.pth
 that are in detection files.
 
 utils.py file contains the basic functions to use inside the main scripts.
