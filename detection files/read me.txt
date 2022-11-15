@@ -1,0 +1,4 @@
+Download the model_final.pth from this url
+https://drive.google.com/drive/folders/13DTFAgE2l6kMWZCM4Y2EuxZNIw9RP4aU?usp=share_link
+
+it represents the trained model of this task 

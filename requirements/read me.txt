@@ -1,0 +1,8 @@
+You can install the libraries in the requirements file by using pip install 'the library'
+
+For installing opencv, use this command: pip install opencv-contrib-python --upgrade
+
+For installing torch and torchvision, use this command: 
+pip3 install torch==1.11.0+cpu torchvision==0.12.0+cpu -f https://download.pytorch.org/whl/cpu/torch_stable.html 
+
+For installing detectron2, use this command: python -m pip install 'git+https://github.com/facebookresearch/detectron2.git'
